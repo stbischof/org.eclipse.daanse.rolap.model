@@ -30,4 +30,10 @@
     <scm.repo.detail>org.eclipse.daanse.rolap.model</scm.repo.detail>
   </properties>
 
+  <modules>
+    <module>org.eclipse.daanse.rolap.model.api</module>
+    <module>org.eclipse.daanse.rolap.model.jakarta.xml.bind</module>
+    <module>org.eclipse.daanse.rolap.model.emf</module>
+    <module>org.eclipse.daanse.rolap.model.record</module>
+  </modules>
 </project>
